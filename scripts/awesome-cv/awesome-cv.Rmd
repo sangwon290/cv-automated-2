@@ -16,7 +16,7 @@ headcolor: "9e2e2e"
 aboutme: "I am deeply engaged in bioinformatics and mentorship. I excitedly wrangle data, craft software, and create dynamic mentorship opportunities."
 docname: awesomecv
 output:
-  vitae::awesomecv
+  vitae::awesomecv # you can change your template
 ---
 
 ```{r setup, include=FALSE}
